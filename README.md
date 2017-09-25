@@ -1,2 +1,11 @@
-# formparserjson
-formparser: convert html form into json 
+ **formparserjson**
+--------------
+
+Install:
+
+
+
+> **sudo cpan JSON**
+
+
+
