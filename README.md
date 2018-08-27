@@ -5,7 +5,7 @@ Install:
 
 
 
-    sudo cpan JSON && git clone https://github.com/ouadmoha/formparserjson cd formparserjson
+    sudo cpan JSON && git clone https://github.com/ouadmoha/formparserjson && cd formparserjson
 
 
 Usage:
